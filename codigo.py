@@ -1,7 +1,8 @@
-nombre = "Ryu Tempest"
+nombre = "Ryo Tempest"
 apellido = "Quagmire"
 
 Saludo = "Hola " + nombre + " " + apellido + " como estas?"
 
 print(Saludo)
+
 
